@@ -13,6 +13,7 @@ Examples of Postcode Level Data Dashboard
 ![Historical Transaction Prices](https://github.com/MochiYoshi/BPTLIL_public_demo/blob/main/historical%20price.PNG?raw=true)
 ![Transaction Counts by Property Type](https://github.com/MochiYoshi/BPTLIL_public_demo/blob/main/transaction%20count%20by%20property%20type.PNG?raw=true)
 ![Individual Property Transactions Scatter](https://github.com/MochiYoshi/BPTLIL_public_demo/blob/main/Price%20paid%20example%201.png?raw=true)
+![Price per square foot](https://github.com/MochiYoshi/BPTLIL_public_demo/blob/main/price%20per%20square%20foot%20example.jpg?raw=true)
 ![Nearby Bus Plot](https://github.com/MochiYoshi/BPTLIL_public_demo/blob/main/bus_stops_600m_radius_new.png?raw=true)
 ![Nearby Other Transportation Plot](https://github.com/MochiYoshi/BPTLIL_public_demo/blob/main/transport_stops_600m_radius_new.png?raw=true)
 
@@ -22,3 +23,5 @@ Incidence of AirBnB Listings vs London Median
 ![Incidence of AirBnB properties](https://github.com/MochiYoshi/BPTLIL_public_demo/blob/main/airbnb%20incidence%20ratio%20vs%20london%20median.png?raw=true)
 Violent Crimes Against a Person vs London Median
 ![Violence against persons](https://github.com/MochiYoshi/BPTLIL_public_demo/blob/main/Violence%20against%20person%20crime%20ratio%20vs%20london%20median.png?raw=true)
+
+
