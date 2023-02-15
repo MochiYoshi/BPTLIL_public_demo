@@ -8,23 +8,17 @@ It also includes a dashboard where users can query specific postcodes and view a
 
 Examples of Postcode Level Data Dashboard
 ------------------
-![Noise Pollution](https://github.com/MochiYoshi/TFL_Project_Final/blob/master/noise%20pollution.PNG?raw=true)
-![Council Tax Band and Build Period](https://github.com/MochiYoshi/TFL_Project_Final/blob/master/coucnil%20tax%20band%20and%20build%20period.png?raw=true)
-![Historical Transaction Prices](https://github.com/MochiYoshi/TFL_Project_Final/blob/master/historical%20price.PNG?raw=true)
-![Transaction Counts by Property Type](https://github.com/MochiYoshi/TFL_Project_Final/blob/master/transaction%20count%20by%20property%20type.PNG?raw=true)
-![Individual Property Transactions Scatter](https://github.com/MochiYoshi/TFL_Project_Final/blob/master/Price%20paid%20example%201.png?raw=true)
-![Nearby Bus Plot](https://github.com/MochiYoshi/TFL_Project_Final/blob/master/bus_stops_600m_radius_new.png?raw=true)
-![Nearby Other Transportation Plot](https://github.com/MochiYoshi/TFL_Project_Final/blob/master/transport_stops_600m_radius_new.png?raw=true)
+![Noise Pollution](https://github.com/MochiYoshi/BPTLIL_public_demo/blob/master/noise%20pollution.PNG?raw=true)
+![Council Tax Band and Build Period](https://github.com/MochiYoshi/BPTLIL_public_demo/blob/master/coucnil%20tax%20band%20and%20build%20period.png?raw=true)
+![Historical Transaction Prices](https://github.com/MochiYoshi/BPTLIL_public_demo/blob/master/historical%20price.PNG?raw=true)
+![Transaction Counts by Property Type](https://github.com/MochiYoshi/BPTLIL_public_demo/blob/master/transaction%20count%20by%20property%20type.PNG?raw=true)
+![Individual Property Transactions Scatter](https://github.com/MochiYoshi/BPTLIL_public_demo/blob/master/Price%20paid%20example%201.png?raw=true)
+![Nearby Bus Plot](https://github.com/MochiYoshi/BPTLIL_public_demo/blob/master/bus_stops_600m_radius_new.png?raw=true)
+![Nearby Other Transportation Plot](https://github.com/MochiYoshi/BPTLIL_public_demo/blob/master/transport_stops_600m_radius_new.png?raw=true)
 
 Examples of Visualising Data Used For Scoring Neighbourhoods
 --------------------
 Incidence of AirBnB Listings vs London Median
-![Incidence of AirBnB properties](https://github.com/MochiYoshi/TFL_Project_Final/blob/master/airbnb%20incidence%20ratio%20vs%20london%20median.png?raw=true)
+![Incidence of AirBnB properties](https://github.com/MochiYoshi/BPTLIL_public_demo/blob/master/airbnb%20incidence%20ratio%20vs%20london%20median.png?raw=true)
 Violent Crimes Against a Person vs London Median
-![Violence against persons](https://github.com/MochiYoshi/TFL_Project_Final/blob/master/Violence%20against%20person%20crime%20ratio%20vs%20london%20median.png?raw=true)
-
-Example of Least Crowded Route Finder
---------------------
-![Least Crowded Commute](https://github.com/MochiYoshi/BPTLIL_Demo/blob/master/tfl_least_crowded_route_finder/least_crowded_commute.png?raw=true)
-#### Graphic pulled from BPTLIL demo
-
+![Violence against persons](https://github.com/MochiYoshi/BPTLIL_public_demo/blob/master/Violence%20against%20person%20crime%20ratio%20vs%20london%20median.png?raw=true)
