@@ -1,10 +1,10 @@
 # Best Place to Live in London Finder
-### Project purpose is to ultimately find undervalued/good VFM properties across London, e.g. with strong transport links to user's work/school/other frequent travel location.
+### The purpose of this tool to help users find under-valued/good value for money properties across London, e.g. with strong transport links to user's work/school/other frequent travel location.
 
-Welcome to the demo of my latest Python project, seeking to find the 'Best Place To Live in London' tailored to YOUR personal preferences.
+Welcome to the demo of my Python project, which seeks to find the 'Best Place To Live in London' tailored to your personal preferences.
 The idea is to aggregate various types of openly available data about London - from crime statistics to noise pollution data, and recommend users their perfect neighbourhood based on a set of criteria.
 This score will be based on how much weight (importance) the user assigns to each aspect of a property - for example how much do they care about price versus crime or property size.
-It also includes a dashboard where users can query specific postcodes and view all the data for that postcode in one place (current functionality is built up to this point).
+It also includes a dashboard where users can query specific postcodes and view all the data for that postcode (at an LSOA11CD level) in one place.
 
 Examples of Postcode Level Data Dashboard
 ------------------
